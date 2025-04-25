@@ -1,5 +1,5 @@
 # EX3 Implementation of Tower of Hanoi
-## DATE:20/02/2025
+## DATE:24/02/2025
 ## AIM:
 To write a C program to implement Tower of Hanoi
 
@@ -16,8 +16,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: N.NAVYA SREE
-RegisterNumber:  212223040138
+Developed by: Samakash R S
+RegisterNumber:  212223230182
 */
 #include<stdio.h> 
 void TOH(int n,char x,char y,char z) 
